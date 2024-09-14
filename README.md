@@ -1,2 +1,3 @@
-# in-orbit
-Uma aplicação de gerenciamento de metas pessoais que permite aos usuários organizar sua vida para atingir seus objetivos de forma eficiente.
+# In-orbit
+
+Esse é o repositório da aplicação. Para rodar ela em sua máquina, é necessário instalar o Node.js na versão 20.17.0 (LTS)
